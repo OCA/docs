@@ -14,7 +14,7 @@ usage: >-
   ![Partner Form Fax Field](/media/partner_form_fax.png)
 context: ""
 install: ""
-configure: ""
+configure: There is no configuration required for this module. Just install it.
 ---
 
 This module adds a fax field into the partner form.
