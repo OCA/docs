@@ -33,3 +33,7 @@ context: >-
   Sometimes, we need to refine the search by adding more criteria to the search like in the example.
 ---
 This module allows you to perform a search that combines multiple criteria for the same field (using the "**AND**" condition) by pressing the "*Shift*" key on your keyboard before searching.
+
+Odoo versions available : 8.0 / 10.0 / 11.0 / 12.0 / 13.0 / 14.0 / 15.0 / 16.0 / 18.0
+
+Documentation written in version 16.0
