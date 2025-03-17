@@ -3,9 +3,6 @@ slug: partner_fax
 title: Partner Fax
 layout: module
 usage: >-
-  ## Usage
-
-
   To use this module, you need to:
 
 
