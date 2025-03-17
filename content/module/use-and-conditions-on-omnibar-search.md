@@ -17,7 +17,7 @@ usage: >-
 
     * Odoo will apply the condition "AND".
 
-  ![](/media/contacts_search_marc_and_demo_in_name.png)
+  ![Contacts search Marc and Demo in Name](/media/contacts_search_marc_and_demo_in_name.png)
 context: >-
   In vanilla Odoo, searching with multiple criteria for the same field is always
   performed using the "**OR**" condition.
