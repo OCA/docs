@@ -23,12 +23,19 @@ context: >-
   For example : 
 
 
-  * Search for contact "*John*" on the field `Name`
+  * Search for contact "*Marc*" on the field `Name`
 
-    * Odoo displays contacts containing "*John*"
-  * Search for "*Smith*" on same field `Name`
+    * Odoo displays contacts containing "*Marc*"
 
-    * Odoo displays contacts containing "*John*" OR "*Smith*"
+  ![Contacts search Marc in Name](/media/contacts_search_marc_in_name.png)
+
+
+  * Search for "*Demo*" on same field `Name`
+
+    * Odoo displays contacts containing "*Marc*" OR "*Demo*"
+
+  ![Search Marc or Demo in Name](/media/contacts_search_marc_or_demo_in_name.png)
+
 
   Sometimes, we need to refine the search by adding more criteria to the search like in the example.
 ---
@@ -37,3 +44,5 @@ This module allows you to perform a search that combines multiple criteria for t
 Odoo versions available : 8.0 / 10.0 / 11.0 / 12.0 / 13.0 / 14.0 / 15.0 / 16.0 / 18.0
 
 Documentation written in version 16.0
+
+The module behave the same way for all versions.
