@@ -2,19 +2,22 @@
 slug: web_search_with_and
 title: Use AND conditions on omnibar search
 usage: >-
-  As an internal user, go to the search bar of the application you are on.
+  As an Internal User, go to the search bar of the application you are on.
 
 
-  Search for your first criteria.
+  * Search for your first criteria.
 
 
-  Type the second criteria then press the "Shift" key on your keyboard.
+  ![Contacts search Marc in Name](/media/contacts_search_marc_in_name.png)
 
 
-  At the same time, press the "Enter" key or click on the field you want to search in.
+  * Type the second criteria then press the "Shift" key on your keyboard.
 
+  * At the same time, press the "Enter" key or click on the field you want to search in.
 
-  Odoo will apply the condition "AND".
+    * Odoo will apply the condition "AND".
+
+  ![](/media/contacts_search_marc_and_demo_in_name.png)
 context: >-
   In vanilla Odoo, searching with multiple criteria for the same field is always
   performed using the "**OR**" condition.
