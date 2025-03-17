@@ -1,12 +1,12 @@
 ---
 slug: web_search_with_and
 title: Use AND conditions on omnibar search
+usage: ""
+context: >-
+  In the vanilla version of Odoo, searching with multiple criteria for the same
+  field is always performed using the "OR" condition.
+
+
+  Sometimes, we need to refine the search by adding more criteria to the search.
 ---
-When searching for records on same field Odoo joins multiple queries with OR. For example:
-
-* Perform a search for customer "John" on field Name
-* Odoo displays customers containing "John"
-* Search for "Smith" on same field Name
-* Odoo displays customers containing "John" OR "Smith"
-
-With this module installed you can press Shift key before searching for "Smith" and Odoo finds customers containing "John" AND "Smith"
+This module allows you to perform a search that combines multiple criteria for the same field (using the "AND" condition) by pressing the "Shift" key on your keyboard.
